@@ -1,0 +1,31 @@
+[ {
+  "id": 1,
+  "name": "sowmya",
+  "email": "sowmya@gmail.com",
+  "contact_no": 9198567410
+},
+{
+  "id": 2,
+  "name": "shilpa",
+  "email": "name2@gmail.com",
+  "contact_no": 919465667410
+},
+{
+  "id": 3,
+  "name": "madhu",
+  "email": "name2@gmail.com",
+  "contact_no": 91946567410
+},
+{
+  "id": 4,
+  "name": "manvitha",
+  "email": "name2@gmail.com",
+  "contact_no": 91945667410
+},
+{
+  "id": 5,
+  "name": "psdfg",
+  "email": "name2@gmail.com",
+  "contact_no": 9195667410
+}
+]
